@@ -1,2 +1,2 @@
-# Intternship
+# Internship
 Task
